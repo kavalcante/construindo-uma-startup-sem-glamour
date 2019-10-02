@@ -1,2 +1,2 @@
-# aplicacoes-front-end-modernas
-Slides para a talk "Aplicações Front-end Modernas"
+# Construindo uma startup sem glamour
+Slides para a talk "Construindo uma startup sem glamour" com @leoturbiani
